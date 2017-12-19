@@ -1,0 +1,28 @@
+{
+    "intents": [
+        {
+            "intent": "CreedsIntent",
+            "slots": [
+                {
+                    "name": "Creeds",
+                    "type": "LIST_OF_CREEDS"
+                }
+            ]
+        },
+        {
+            "intent": "AMAZON.YesIntent"
+        },
+        {
+            "intent": "AMAZON.NoIntent"
+        },
+        {
+            "intent": "AMAZON.HelpIntent" 
+        },
+        {
+            "intent": "AMAZON.StopIntent" 
+        },
+        {
+            "intent": "AMAZON.CancelIntent" 
+        }
+    ]
+}
